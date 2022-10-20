@@ -5,9 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "serve": "nodemon index.js",
-    "start": "set NODE_ENV=development&& node index.js",
-    "start-prod": "set NODE_ENV=production&& node index.js"
+    "serve": "nodemon index.js"
+    
   },
   "author": "Kevork Lepedjian",
   "license": "ISC",
